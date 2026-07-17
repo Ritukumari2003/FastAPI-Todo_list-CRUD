@@ -1,0 +1,4 @@
+git rm -r --cached __pycache__
+git add .gitignore
+git commit -m "Remove __pycache__ and add .gitignore"
+git push
